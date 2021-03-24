@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynu4Win", "Dynu4Win.csproj", "{A0A96BB9-2D85-4E46-8F0E-5F3570195874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A96BB9-2D85-4E46-8F0E-5F3570195874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A96BB9-2D85-4E46-8F0E-5F3570195874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A96BB9-2D85-4E46-8F0E-5F3570195874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A96BB9-2D85-4E46-8F0E-5F3570195874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE02867-15D4-49C6-9688-16DE1EC43D0E}
+	EndGlobalSection
+EndGlobal
