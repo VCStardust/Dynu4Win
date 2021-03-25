@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.218
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynu4Win", "Dynu4Win.csproj", "{A0A96BB9-2D85-4E46-8F0E-5F3570195874}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynu4Win", "Dynu4Win.csproj", "{A0A96BB9-2D85-4E46-8F0E-5F3570195874}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
